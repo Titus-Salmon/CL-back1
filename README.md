@@ -5,5 +5,6 @@ This site was created by Titus Salmon for Code Louisville, and consists of:<br><
 [2]Portfolio Page, consisting of portfolio images<br>
 [3]Published Books page, with description and cover image of published books<br>
 [4]About page, with information about author and artist.<br>
-[5]Contact page, with working PHP mailer.<br><br>
+[5]Contact page, with working PHP mailer.<br>
+[5]Tarot card reader page, with working MySQL databse for Tarot card reading<br>
 Used: HTML, CSS, JavaScript, PHP, MySQL, JSON
